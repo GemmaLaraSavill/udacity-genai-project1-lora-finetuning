@@ -117,11 +117,11 @@ Follow the notebook instructions to fine-tune the model and evaluate performance
 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [AG News Dataset](https://huggingface.co/datasets/ag_news)
-- [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai-nanodegree--nd348)
+- [AG News Dataset](https://huggingface.co/datasets/sh0416/ag_news)
+- [Udacity Generative AI Nanodegree](https://www.udacity.com/course/generative-ai--nd608)
 
 ------------------------------------------------------------------------
 
 ## 📝 Blog Post
 
-Read the full blog post here: 
+Read the full blog post here: [Applying Parameter-Efficient Fine-Tuning with Hugging Face](https://www.myhappyplace.dev/blog/applying-parameter-efficient-fine-tuning-with-hugging-face/)
